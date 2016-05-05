@@ -2,3 +2,6 @@
 - 支持多级配置，路径查找
 - 支持文件、目录
 - 动态监听配置变更
+
+## 安装
+- go get github.com/plusplus1/goconf
